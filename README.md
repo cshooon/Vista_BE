@@ -1,5 +1,5 @@
 # Vista_BE
-2024 캡스톤 디자인 프로젝트 백엔드 코드입니다.
+2024 캡스톤 디자인 백엔드 코드입니다.
 
 [BE](https://github.com/LlamaVista/LlamaVista/tree/BE)
 [FE](https://github.com/LlamaVista/LlamaVista/tree/FE)
